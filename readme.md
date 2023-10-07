@@ -1,6 +1,6 @@
 Project Setup:
 --------------
-Create a table nodetest in mongodb
+Create a database name = 'nodetest' in mongodb
 
 Create .env file in the project root folder add below data
 MONGODB_URL = "mongodb://127.0.0.1:27017/nodetest"
